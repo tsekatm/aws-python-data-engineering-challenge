@@ -78,7 +78,7 @@ aws-python-data-engineering-challenge/
 2. Install dependencies (create a virtual environment if preferred):
 
    ```bash
-   pip install pandas
+   !pip install boto3 pandas numpy matplotlib seaborn plotly scikit-learn
    ```
 3. Launch Jupyter:
 

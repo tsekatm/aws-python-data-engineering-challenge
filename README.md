@@ -1,4 +1,3 @@
-Here’s a clean and professional `README.md` file for your [AWS Python Data Engineering Challenge notebook](https://github.com/tsekatm/aws-python-data-engineering-challenge). This includes a project overview, setup steps, and usage instructions, all tailored for GitHub:
 
 ---
 
